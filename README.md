@@ -1,26 +1,58 @@
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/guiherme-saldanha)
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Guilherme Augusto</h1>
+<h3 align="center">Full Stack Developer | JavaScript & TypeScript Specialist</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/guiherme-saldanha">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-1f6feb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Brazil-2ea44f?style=for-the-badge"/>
+</p>
 
+---
 
-# Guilherme Augusto Saldanha Silva
+## 🚀 About Me
 
-## 🛠  Technologies and tools
+💻 Full Stack Developer focused on building scalable web applications  
+⚡ Experience with modern JavaScript ecosystems  
+📚 Always learning and improving system architecture and clean code  
+🔐 Interested in backend performance, authentication strategies and secure APIs  
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gui-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-CPP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Gui-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-</div>
- 
- ## About
+---
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=GuilhermeA08&show_icons=true&theme=dracula)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeA08&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-    
-![Snake animation](https://github.com/GuilhermeA08/GuilhermeA08/blob/output/github-contribution-grid-snake.svg)
-  
+## 🛠 Tech Stack
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,bun" />
+</p>
+
+### 🗄 Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git" />
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/GuilhermeA08/GuilhermeA08/output/snake.svg" alt="Snake animation" />
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Improve system design skills
+- 🧠 Deepen backend architecture knowledge
+- 🐳 Master Docker & DevOps workflows
+- 📈 Contribute to impactful projects
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/guiherme-saldanha
