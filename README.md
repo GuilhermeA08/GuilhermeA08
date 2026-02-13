@@ -25,22 +25,24 @@
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,vue" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,bun" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,elysia,java,spring,kotlin" />
 </p>
 
-### 🗄 Database & Tools
+### 🧠 Runtime & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git" />
+  <img src="https://skillicons.dev/icons?i=bun" />
 </p>
 
----
+### 🗄 Database & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,prisma,heroku" />
+</p>
 
-<img src="https://raw.githubusercontent.com/GuilhermeA08/GuilhermeA08/output/snake.svg" alt="Snake animation" />
 
 ---
 
